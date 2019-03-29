@@ -2,7 +2,6 @@
 
 This is the first file in this demo-git.
 
-## Ipsum Below
+## Website contents
 
-My name is reddy.
-Whats up?
+1. index.html
